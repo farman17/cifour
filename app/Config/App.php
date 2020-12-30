@@ -21,7 +21,7 @@ class App extends BaseConfig
 	| environments.
 	|
 	*/
-	public $baseURL = 'http://aplikasi.dailybugis.my.id';
+	public $baseURL = 'http://aplikasi.dailybugis.my.id/';
 
 	/*
 	|--------------------------------------------------------------------------
