@@ -21,7 +21,7 @@ class App extends BaseConfig
 	| environments.
 	|
 	*/
-	public $baseURL = 'http://localhost/cifour';
+	public $baseURL = 'http://sosialmedia.dailybugis.my.id';
 
 	/*
 	|--------------------------------------------------------------------------
