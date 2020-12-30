@@ -31,10 +31,10 @@ class Database extends \CodeIgniter\Database\Config
 	 */
 	public $default = [
 		'DSN'      => '',
-		'hostname' => 'localhost',
-		'username' => 'root',
-		'password' => '',
-		'database' => 'javawebmedia_cifour',
+		'hostname' => 'dbsosmedia.cjorhe5jzkni.us-east-2.rds.amazonaws.com',
+		'username' => 'admin',
+		'password' => 'farman17',
+		'database' => 'cifour',
 		'DBDriver' => 'MySQLi',
 		'DBPrefix' => '',
 		'pConnect' => false,
