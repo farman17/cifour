@@ -28,7 +28,7 @@ spec:
     spec:
       containers:
       - name: php-pesbuk
-        image: farman17/booking-hotel
+        image: farman17/cifour-app
         ports:
           - containerPort: 80
        
@@ -43,7 +43,7 @@ metadata:
     nginx.ingress.kubernetes.io/rewrite-target: /
 spec:
   rules:
-  - host: sosialmedia.dailybugis.my.id
+  - host: aplikasi.dailybugis.my.id
     http:
       paths:
       #- path: /
